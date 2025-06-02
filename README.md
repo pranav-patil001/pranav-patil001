@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://pranav-shirsath.netlify.app/](https://pranav-shirsath.netlify.app/)
 
-- 💬 Ask me about **DSA**
-
 - 📫 How to reach me **patilpranav0018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
